@@ -1,0 +1,3 @@
+- Create first repo (done)
+- Add a file to repo (done)
+- Check git history (done)
