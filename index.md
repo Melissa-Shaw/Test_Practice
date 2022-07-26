@@ -1,4 +1,4 @@
-# Mock Down Practice
+# Markdown Practice
 
 ## Testing 1
 
